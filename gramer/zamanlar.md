@@ -4,11 +4,13 @@
 
 ---
 
-## Simple Present - Geniş Zaman - Giderim
+## Simple Present
+
+Geniş Zaman - Giderim
 
 |Zamir|Yrd. Fiil*|Fiil|
 |-----|---------|----|
-|I, you, we, they|do|V1||
+|I, you, we, they|do|V1|
 |he, she, it|does|V1+s**|
 
 \* *Olumlu cümlelerde yardımcı fiil kullanılmaz.*  
@@ -26,6 +28,7 @@
 - I don't go to school. (Okula gitmem.)
 - She goes to school. (O okula gider.) 
 - Does she go to school. (O okula gider mi?)
+- The sun always rises in the east. (Güneş her zaman doğudan doğar.)
 - I am hungry (Açım)
 - I have a dog (Bir köpeğim var)
 - I have got a cat (got genelde İngiliz İngilizcesi) (Bir kediye sahibim.)

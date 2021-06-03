@@ -4,4 +4,4 @@
 
 ---
 
-[Zamanlar](/zamanlar.md)
+[Zamanlar](/gramer/zamanlar.md)
