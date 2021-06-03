@@ -43,7 +43,9 @@ Paragraf ```<p>``` için yazılar arasına boş bir satır bırakabilirsin.
 **_kalın ve italik_**,  ***kalın ve italik***, ___kalın ve italik___
 
 ~~üstüçizili~~
+
 ```
+
 
 **kalın**, __kalın__
 
