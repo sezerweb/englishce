@@ -1,0 +1,2 @@
+# englishce
+İngiilizce notlar.
