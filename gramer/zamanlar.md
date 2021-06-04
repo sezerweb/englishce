@@ -1,6 +1,7 @@
 # Zamanlar
 
-[Simple Present - Geniş Zaman](#simple-present) 
+[Simple Present - Geniş Zaman](#simple-present)  
+[Present Continuous - Şimdiki Zaman](#present-continuous) 
 
 ---
 
@@ -32,5 +33,27 @@ Geniş Zaman - Giderim
 - I am hungry (Açım)
 - I have a dog (Bir köpeğim var)
 - I have got a cat (got genelde İngiliz İngilizcesi) (Bir kediye sahibim.)
+
+---
+
+## Present Continuous
+
+Şimdiki Zaman - Gidiyorum
+
+|Zamir|Yrd. Fiil|Fiil|
+|-----|---------|----|
+|I|am|V1+ing|
+|you, we, they|are|V1+ing|
+|he, she, it|is|V1+ing|
+
+
+### Kullanım Yerleri
+
+1. İçinde bulunduğumuz andaki yaptığımız işleri belirtiriz
+
+
+### Örnekler
+
+- I am going to school. (Okula gidiyorum.) 
 
 ---
