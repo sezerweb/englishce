@@ -12,3 +12,6 @@
 
 ## Araçlar
 [Kaynaklar](/kaynaklar/kaynaklar.md)
+
+## Günlük
+[2021](/gunluk/2021.md)
