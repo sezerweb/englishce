@@ -14,6 +14,9 @@ Orta seviyede haftada bir iki uğramalık.
 ### [Busuu](https://busuu.com)
 Ücretli. İngiliz İngilizcesi. Zorluyor biraz.  
 
+### [Cambly Blog](https://blog.cambly.com/tr/)  
+Yeni keşfettim. Güzelmiş.
+
 ### [engVid](https://www.engvid.com/)
 Aynı zamanda Youtube kanalı. Favori hocam Ronnie :)   
 
