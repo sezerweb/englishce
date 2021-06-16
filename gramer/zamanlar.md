@@ -62,6 +62,5 @@ Geniş Zaman - Giderim
 
 - I am going to school. (Okula gidiyorum.) 
 - Why are you going to İzmir next week?. (Neden gelecek hafta İzmir’e gidiyorsun (gideceksin?))
-- 
-
+  
 ---

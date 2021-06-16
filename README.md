@@ -4,7 +4,8 @@
 
 ---
 ## Gramer
-[Zamanlar](/gramer/zamanlar.md)
+[Zamanlar](/gramer/zamanlar.md)  
+[Pasif Voice (Edilgen Yapı)](/gramer/edilgen_yapi.md)
 
 ## Kelime Bilgisi
 [Kelimeler](/kelimeler/kelimeler.md)  

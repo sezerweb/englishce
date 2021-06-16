@@ -26,9 +26,11 @@ Aynı zamanda Youtube kanalı. Favori hocam Ronnie :)
 ### [Lexico](https://www.lexico.com)
 Kelimler, deyimler ve örnekler konusunda iyi görünüyor.
 
-
 ### [Easy Stories in English](https://easystoriesinenglish.com/)
 Seviyeye göre hikayeler. Ben sevdim.
 
 ### [Dersimiz İngilizce](http://www.dersimizingilizce.com/)
 Türkçe kaynak. 
+
+### [Learn English Vocabulary](https://learnenglishvocabulary.co.uk/)
+Podcast destekli.  
