@@ -3,14 +3,16 @@
 Fiili yapanın bilinmediği veya önemli olmadığı durumlarda passive voice kullanılır.
 Örneğin: *Yumurta kırıldı. (The egg was broken.)* Cümlesinde kıranın bilinmediği ya da önemli olmadığı bir durum söz konusu. İstersek : *Yumurta benim tarafımdan kırıldı. (The egg was broken by me.)* diyerek özeneyi de bildirebiliriz. 
 
-Bir etken cümleyi, edilgen yapabilmek için o cümlenin yükleminin **nesne alması** yani **geçişli fiil** olması gerekir. Eğer yüklem olan fiil, nesne almamışsa **geçişsiz** olur ve edilgen yapıya dönüştürülemez. Örn: *O hızlı koşar.* etken cümlseini *O hızlı koşulur.* diyemeyiz. Bunun gibi gitmek, gelmek, uymak gibi fiiler geçişsizdir.
+Bir etken cümleyi, edilgen yapabilmek için o cümlenin yükleminin **nesne alması** yani **geçişli fiil** olması gerekir. Eğer yüklem olan fiil, nesne almamışsa **geçişsiz** olur ve edilgen yapıya dönüştürülemez. Örn: *O hızlı koşar.* etken cümlesini *O hızlı koşulur.* diyemeyiz. Bunun gibi gitmek, gelmek, uymak gibi fiiler geçişsizdir.
+
+Edilgen yapılarda fiil hep 3. halde kullanılır. be + V3. By ile etken cümlenin öznesi, eklenebilir.
 
 ## Kurallar
 
 |#|Yapı|Etken|Edilgen|  
 |:--:|:---|:---|:---|  
 |1|Simple Present|V1(s)|am,is,are+V3|
-|2|Simple Past|V2|was,were+V3|
+|2|Simple Past|V2<br> The police discovered the robbery|was,were+V3 <br> The robbery was discovered (by the police)|
 |3|Present Continuous|am,is,are+Ving|am,is,are+being+V3|
 |4|Past Continuous|was,were+Ving|was,were+being+V3| 
 |5|Going to Future|am,is,are+going to+V1|am,is,are+going to+be+V3|
