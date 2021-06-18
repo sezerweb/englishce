@@ -35,6 +35,6 @@ Türkçe kaynak.
 ### [Learn English Vocabulary](https://learnenglishvocabulary.co.uk/)
 Podcast destekli.  
 
-
 ### [Her yönüyle İngilizce Dilbilgisi - Ayhan Sezer](https://www.pelikankitabevi.com.tr/her-yonuyle-ingilizce-dilbilgisi)
-Gördüğüm en kapsamlı gramer kitaplarından biri. 
+Kapsamlı bir başvuru kitabı. 1515 sayfacık ;) 
+Örnekleri ve anlatımı gerdi beni. Sanki kızınlıkla yazılmış gibi.
