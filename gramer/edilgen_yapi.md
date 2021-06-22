@@ -5,7 +5,7 @@ Fiili yapanın bilinmediği veya önemli olmadığı durumlarda passive voice ku
 
 Bir etken cümleyi, edilgen yapabilmek için o cümlenin yükleminin **nesne alması** yani **geçişli fiil** olması gerekir. Eğer yüklem olan fiil, nesne almamışsa **geçişsiz** olur ve edilgen yapıya dönüştürülemez. Örn: *O hızlı koşar.* etken cümlesini *O hızlı koşulur.* diyemeyiz. Bunun gibi gitmek, gelmek, uymak gibi fiiler geçişsizdir.
 
-Edilgen yapılarda fiil hep 3. halde kullanılır. be + V3. By ile etken cümlenin öznesi, eklenebilir.
+Edilgen yapılarda fiil hep 3. halde kullanılır. be + V3. *By* ile etken cümlenin öznesi, eklenebilir.
 
 ## Kurallar
 
