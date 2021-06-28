@@ -4,8 +4,9 @@
 
 ---
 ## Gramer
-[Zamanlar](/gramer/zamanlar.md)  
-[Pasif Voice (Edilgen Yapı)](/gramer/edilgen_yapi.md)
+[Tenses (Zamanlar)](/gramer/zamanlar.md)  
+[Pasif Voice (Edilgen Yapı)](/gramer/edilgen_yapi.md)  
+[Countable and uncountable nouns (Sayılabilir ve Sayılamaz isimler)](/gramer/sayilabilir_ve_sayilamaz_isimler.md)
 
 ## Kelime Bilgisi
 [Kelimeler](/kelimeler/kelimeler.md)  
