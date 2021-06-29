@@ -38,3 +38,8 @@ Podcast destekli.
 ### [Her yönüyle İngilizce Dilbilgisi - Ayhan Sezer](https://www.pelikankitabevi.com.tr/her-yonuyle-ingilizce-dilbilgisi)
 Kapsamlı bir başvuru kitabı. 1515 sayfacık ;) 
 Örnekleri ve anlatımı gerdi beni. Sanki kızınlıkla yazılmış gibi.
+
+### [Cambridge Dictionary](https://dictionary.cambridge.org/tr/)
+Sadece sözlük değil.  
+
+
