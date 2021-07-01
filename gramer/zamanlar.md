@@ -1,7 +1,8 @@
 # Zamanlar
 
-[Simple Present - Geniş Zaman](#simple-present)  
-[Present Continuous - Şimdiki Zaman](#present-continuous) 
+[Simple Present - Geniş Zaman](#simple-present)   
+[Present Continuous - Şimdiki Zaman](#present-continuous)   
+[Present Perfect Continuous](#present-perfect-continuous)   
 
 ---
 
@@ -62,5 +63,43 @@ Geniş Zaman - Giderim
 
 - I am going to school. (Okula gidiyorum.) 
 - Why are you going to İzmir next week?. (Neden gelecek hafta İzmir’e gidiyorsun (gideceksin?))
+  
+---
+
+## Present Perfect Continuous
+
+'Present perfect continuous 'şu andan önce' ve 'şu an' arasında belirtilmemiş bir zamana işaret eder. Konuşmacı o zaman aralığında başlayan ve muhtemelen tamamlanmayan bir şeyi düşünmektedir. Sürecin yanı sıra sonuç ile ilgilenmektedir, ve bu süreç hala devam etmekte olabilir, veya yakın zamanda bitmiş olabilir.
+
+|Zamir|Yrd. Fiil|Fiil|
+|-----|---------|----|
+|I, you, we, they|have been|V1+ing|
+|he, she, it|has been|V1+ing|
+
+
+### Kullanım Yerleri
+
+1. Eylem geçmişte başlamış, şu an devam ediyor, hatta belki gelecekte de devam edecektir.
+2. Yakın zamanda biten ve bizi sonucunun ilgilendirdiği olayları ifade etmek için kullanılır.
+
+### Sık Kullanılan Zaman İfadeleri
+- Since (-den beri)
+- For (için)
+- Weeks, years, for the last
+- all morning, all week, all year
+- recently, lately
+- how long
+
+Aşağıdakiler asla kullanmaz  
+~~Never, ever, sometimes, once, twice, three times, always, rarely, yet, just~~ 
+
+### Örnekler
+
+- Ali has been playing football for two hours.(Ali iki saattir futbol oynuyor.)
+- I have been studying for two hours. (İki saattir çalışıyorum.)
+- Has she been doing her homework since the morning? (Sabahtan beri ödevini yapıyor mu?)
+- How long has he been listening to the radio? (Ne zamandır radyo dinliyor?)
+- I have been recently watching Game of Thrones. (Son zamanlarda Game of Thrones’u izliyorum.)
+- I have been cooking all morning. (Sabahtan beri yemek yapıyorum.)
+- I have been doing exercise for the last 30 minutes. (Son 30 dakikadır egzersiz yapıyorum.)
   
 ---

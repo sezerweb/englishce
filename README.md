@@ -4,16 +4,23 @@
 
 ---
 ## Gramer
-[Tenses (Zamanlar)](/gramer/zamanlar.md)  
-[Pasif Voice (Edilgen Yapı)](/gramer/edilgen_yapi.md)  
-[Countable and uncountable nouns (Sayılabilir ve Sayılamaz isimler)](/gramer/sayilabilir_ve_sayilamaz_isimler.md)
+Gramersiz olmuyor.
+- [Tenses (Zamanlar)](/gramer/zamanlar.md)  
+- [Pasif Voice (Edilgen Yapı)](/gramer/edilgen_yapi.md)  
+- [Countable and uncountable nouns (Sayılabilir ve Sayılamaz isimler) ](/gramer/sayilabilir_ve_sayilamaz_isimler.md)  
+- [Would vs. Could vs. Should](/gramer/would_could_should.md)
 
 ## Kelime Bilgisi
-[Kelimeler](/kelimeler/kelimeler.md)  
-[Deyimler - Idoms](/kelimeler/deyimler.md) 
+Maksat yazmak ve pekiştirmek.
+- [Kelimeler](/kelimeler/kelimeler.md)  
+- [Deyimler - Idoms](/kelimeler/deyimler.md) 
 
-## Araçlar
-[Kaynaklar](/kaynaklar/kaynaklar.md)
+## Kaynak ve Araçlar
+Test edip onayladığım kaynak ve araçları buraya ekliyorum.
 
-## Günlük
-[2021](/gunluk/2021.md)
+- [Kaynaklar](/kaynak_ve_araclar/kaynaklar.md)
+- [Araçlar](/kaynak_ve_araclar/araclar.md)
+
+## Nasıl Çalışıyorum
+Günlük rutinlerim. Çalışma şekillerim vs..
+- [2021](/nasil_calisiyorum/2021.md)
