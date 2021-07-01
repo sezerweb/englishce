@@ -18,8 +18,8 @@ Maksat yazmak ve pekiştirmek.
 ## Kaynak ve Araçlar
 Test edip onayladığım kaynak ve araçları buraya ekliyorum.
 
-- [Kaynaklar](/kaynak_ve_araclar/kaynaklar.md)
-- [Araçlar](/kaynak_ve_araclar/araclar.md)
+- [Kaynaklar](/kaynak_araclar/kaynaklar.md)
+- [Araçlar](/kaynak_araclar/araclar.md)
 
 ## Nasıl Çalışıyorum
 Günlük rutinlerim. Çalışma şekillerim vs..
