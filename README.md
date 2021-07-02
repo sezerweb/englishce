@@ -13,6 +13,7 @@ Gramersiz olmuyor.
 ## Kelime Bilgisi
 Maksat yazmak ve pekiştirmek.
 - [Kelimeler](/kelimeler/kelimeler.md)  
+- [Düzensiz Fiiller](/kelimeler/duzensiz_fiiller.md)  
 - [Deyimler - Idoms](/kelimeler/deyimler.md) 
 
 ## Kaynak ve Araçlar
