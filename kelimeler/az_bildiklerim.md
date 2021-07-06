@@ -1,6 +1,6 @@
 # Az Bildiklerim
 
-| Kelime                       | Tahmin | Anlamı                           |
+| Kelime                       | Tahmin Et | Anlamı                           |
 |------------------------------|--------|----------------------------------|
 | abdomen                      | tahmin | karın                            |
 | absent                       | tahmin | yok, bulunmayan                  |
