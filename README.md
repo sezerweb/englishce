@@ -12,7 +12,8 @@ Gramersiz olmuyor.
 
 ## Kelime Bilgisi
 Maksat yazmak ve pekiştirmek.
-- [Kelimeler](/kelimeler/kelimeler.md)  
+- [Yeni Kelimeler](/kelimeler/yeni_kelimeler.md)  
+- [Az Bildiklerim](/kelimeler/az_bildiklerim.md) 
 - [Düzensiz Fiiller](/kelimeler/duzensiz_fiiller.md)  
 - [Deyimler - Idoms](/kelimeler/deyimler.md) 
 
