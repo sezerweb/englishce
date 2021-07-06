@@ -1,4 +1,4 @@
-# Kelimeler
+# Yeni Kelimeler
 
 ### enthusiastic  
 adjective - *istekli, heveseli, ateşli, can atan*   
