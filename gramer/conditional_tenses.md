@@ -1,4 +1,4 @@
-# Four Conditional Tenses - Koşul Cümleleri - Type 0/1/2/3
+# Four Conditional Tenses - Koşul Cümleleri
 
 If clause’da iki tür cümle bulunur. Biri ‘if’ ile başlayan ve şartı belirten hipotezli yan cümle, diğeri de koşulun gerçekleşmesi hâlinde oluşacak durumu ve sonucu belirten ana cümledir. Yan cümleye if-clause, ana cümleye de main clause adı verilir.
 

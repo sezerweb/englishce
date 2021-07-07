@@ -9,7 +9,7 @@ Gramersiz olmuyor.
 - [Pasif Voice (Edilgen Yapı)](/gramer/edilgen_yapi.md)  
 - [Countable and uncountable nouns (Sayılabilir ve Sayılamaz isimler) ](/gramer/sayilabilir_ve_sayilamaz_isimler.md)  
 - [Would vs. Could vs. Should](/gramer/would_could_should.md)
-- [Four Conditional Tenses - Koşul Cümleleri - Type 0/1/2/3](/gramer/conditional_tenses.md)
+- [Four Conditional Tenses - Type 0/1/2/3 (Koşul Cümleleri)](/gramer/conditional_tenses.md)
 
 ## Kelime Bilgisi
 Maksat yazmak ve pekiştirmek.
