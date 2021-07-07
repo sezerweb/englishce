@@ -11,7 +11,6 @@ Gramersiz olmuyor.
 - [Would vs. Could vs. Should](/gramer/would_could_should.md)
 - [Four Conditional Tenses - Koşul Cümleleri - Type 0/1/2/3](/gramer/conditional_tenses.md)
 
-
 ## Kelime Bilgisi
 Maksat yazmak ve pekiştirmek.
 - [Yeni Kelimeler](/kelimeler/yeni_kelimeler.md)  
