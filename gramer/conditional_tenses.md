@@ -9,15 +9,14 @@ Temel yapıda, if ile başlayan yan cümlecik main cümleden önce geliyorsa bu 
 ## Type 0
 Genel doğrularda kullanılan yapıdır. 
 Yani herkesin doğru kabul ettiği kesin durumları ve gerçek olayları anlatırken tercih edilir. 
-Geniş zaman için kullanılır.
-General Truth  
+Geniş zaman için kullanılır.  
+**General Truth**  
 
 > If present simple, present simple + verb 
 
-- If we bought two tickets, we would watch the film.(İki bilet satın alsaydık filmi izlerdik.)
-- If she won a lot money, she might go to France.(Çok kazansa Fransa’ya giderdi.)
-- If he were listening to you, he couldn’t make a mistake.(Seni dinliyor olsa hata yapmayabilir.)
-- I would sleep until noon if I didn’t go to school.(Okula gitmeseydim öğleye kadar uyurdum.)
+- If it snows, the roads get slippery. (Kar yağarsa yollar kayganlaşır.)
+- If you don’t eat your meal, your mother gets angry. (Yemeğini yemezsen annen kızar.)
+- If you drink cold water, you get sick. (Soğuk su içersen hasta olursun.)
    
 -------------
 
@@ -25,7 +24,7 @@ General Truth
 Gerçek veya gerçeğe uygun olaylarda kullanılan bir yapıdır. 
 Yani kesinliği belli olmayan ancak gerçekleşme veya gerçekleşmeme ihtimâli bulunan durumlarda kullanılır. 
 Tip 1 cümlelerinde kesinlik değil ihtimâl dahilinde olma durumu vardır. Gelecek zamanı ifade eder.  
-Real Present  
+**Real Present**  
 
 > If present simple/continuous/perfect/perfect continuous, will/can/may/might/could/must + verb  
 
@@ -40,7 +39,7 @@ Real Present
 Gerçekleşme olasılığı çok az ya da imkânsız durumlar için kullanılır. 
 Daha çok hayali durumları ifade etmek amacıyla tercih edilir. 
 Konuşulan anı vurguladığı için şimdi veya gelecek zamandan bahseden cümlelerdir.  
-Unreal Present  
+**Unreal Present**  
 
 > If past simple/past continuous,  would/ could/ might + verb
 
@@ -61,7 +60,7 @@ If he were taller, he could be a basketball player.
 ## Type 3
 Tip 3 yapısı, artık gerçekleşmesi mümkün olmayan olayları, pişmanlıkları ve eleştirileri anlatmak için kullanılır.   
 Tamamlanıp geçmişte kalmış durumları belirttiği için geçmiş zaman formları tercih edilir.  
-Unreal Past
+**Unreal Past**
 
 > If past perfect/past perfect continuous,  would/ could/ might + have +v3
 

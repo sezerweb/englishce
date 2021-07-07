@@ -2,7 +2,7 @@
 
 İngilizcede isimler, sayılabilir ve sayılamaz olarak ikiye ayrılır. Sayılabilir isimler de tekil ve çoğul yapılarda olurlar.   
 Sayılabilir isimler ile **a lot, many, a few** kullanılırken,
-sayılamazlarda ise **a lot, much ve a litle** kullanılır.  
+sayılamazlarda ise **a lot, much ve a little** kullanılır.  
 
 - Do you have **a pen**?  
 - Is there **much rice** left?  
