@@ -17,7 +17,7 @@ Genel doğruları, kesin durumları, gerçek olayları, doğa olaylarını, bili
 
 | If Clause           | Main Clause    |
 | :------------------ | :------------- |
-| If + Present simple | Present simple |
+| If + Present Simple | Present simple |
 
 
 ### Örnekler  
@@ -36,7 +36,7 @@ Gelecek zamanı ifade eder.
 
 | If Clause| Main Clause|
 |:----------|:----------|
-| If + Present simple / Present continuous / Present perfect / Present perfect continuous | Future simple / Can/May/might/Could/Must/ Should + Present Bare Infinitive  (_Yalın eylemlik_) / Imperative (_Emir_) |
+| If + Present simple / Present Continuous / Present Perfect / Present Perfect Continuous | Future Simple / Can/May/Might/Could/Must/ Should + Present Bare Infinitive  (_Yalın eylemlik_) / Imperative (_Emir_) |
 
 
 ### Örnekler 
@@ -45,24 +45,50 @@ Gelecek zamanı ifade eder.
 - If you want to pass the test, you must study hard. (_Testi geçmek istiyorsan çok çalışmalısın._)
 - If she saves up, she can travel. (_Para biriktirirse seyahat edebilir._)
 - If I have enough eggs, I will make an omelette for you. (_Eğer yeterince yumurtam olursa, senin için bir omlet yaparım._)
-- If he comes, take him upstairs. (_Gelirse üst kata çıkar._)
+- If he comes, take him upstairs. (_Gelirse onu üst kata çıkar._)
+- If he is still sleeping, I will sack him. (_Eğer hala uyuyorsa onu kovacağım._)
+- If she has typed the letter, I'll post it. (_Eğer mektubu daktilo etmişse postalayacağım._)
+- If you have been working since 9 o'clock, you'll need a rest. (_Saat 9'dan beri çalışıyorsan dinlenmeye ihtiyacın olacak._)
 
->:exclamation: İhtimal hali oldukça uzak olan durumlarda if clasue cümlede `should` kullanılır. Should'un yerine `by any chance` da kullanılabilir.
+>:exclamation: İhtimal hali oldukça uzak olan durumlarda if clause cümlede `should` kullanılır. Should'un yerine `by any chance` da kullanılabilir.
 
 - If you should see Mr Fix in Istanbul, give him my regards. (_İstanbul'da Mr. Fix i görecek olursan, selamlarımı söyle._)
 - If a war should break out, I may emigrate to Spain. (_Bir savaş çıkacak olursa, İspanya'ya göç edebilirim._)
+- If the enemy by any change attack this village, the villagers will counterattack them. (_Eğer düşman bu köye saldıracak olursa, köylüler karşı saldırıda bulunacaklar._)
 
 >:exclamation: `Should` başa getirildiği zaman if kullanılmaz. Ancak bu, daha resmi bir kullanım şeklidir ve daha çok iş mektuplarında ve resmi yazılarda kullanılır, günlük konuşmada kullanılmaz.
 
 - Should you see Mr Fix in Istanbul, give him my regards. (_İstanbul'da Mr. Fix i görecek olursan, selamlarımı söyle._)
 - Should a war break out, I may emigrate to Spain. (_Bir savaş çıkacak olursa, İspanya'ya göç edebilirim._)
+- Should the enemy attack this village the villagers will counter-attack them. (_Eğer düşman bu köye saldıracak olursa, köylüler karşı saldırıda bulunacaklar._)
+
+>:exclamation: Normal formlarda if kalıbı ile ‘will’, ‘would’ ve ‘should’ kullanılmaz. Ancak if clause cümlesinde bu yardımcı fiillerden herhangi biri geçiyorsa, kibar bir istek, ısrarcılık, belirsizlik, kabul etmek, razı olmak, istekli olmak, lütufda bulunmak, sakıncası yoksa (_wouldn't mind_) söz konusu olabilir. Kısacası böyle durumlarda if clause ile bu fiilleri kullanabilirsiniz.
+
+- If you will wait a minute, I can call Mr.John. (_Bir dakika beklerseniz, Bay John’u arayabilirim._) – rica
+- If he should come here, we may go together. (_O buraya gelirse belki birlikte gidebiliriz._) – belirsizlik
+- If you will lend me 500 dollars, I will be able to buy that car. (Eğer bana 500 dolar borç verme lütfunda bulunursanız o arabayı alabileceğim.)
+- If you will help me, I'll finish this in time. (_Eğer bana yardım ederseniz, yardım etme lütfunda bulunursanız bunu zamanında bitiririm._)
+- We shall understand the subject better if you would be kind enough to explain in a little bit more? (_Eğer biraz daha izah etme nezaketinde bulunursanız konuyu daha iyi anlayacağız._)
+- If you wouldn't mind opening the window we may have more fresh air. (_Eğer pencereyi açarsanız daha fazla temiz hava alabiliriz._)
+
+>:exclamation:If clause kısmında if clause yerine imperative ( emir cümleleri ) kullanıldığı zaman da cümlenin anlamı değişmez.
+
+- Keep the windows closed at night and you won't get ill. (_Gece pencereleri kapalı tutarsan hastalanmazsın._)
+- Keep the windows closet at night or you will get ill. (_Gece pencereleri kapalı tut yoksa hastalanırsın._)
+
+>:exclamation: If clause da bazen modallardan can ve must kullanılabilir.
+
+- If I must go there, I will. (_Eğer oraya gitmek zorundaysam, gideceğim._)
+- If I can find him, I will talk to him. (_Eğer onu bulabilirsem onunla konuşacağım._)
+
 
 ---
 
 ## 3. Type 2 
 Gerçekleşme olasılığı çok az ya da imkansız durumlar için kullanılır.  
-Daha çok hayali durumları ifade etmek için tercih edilir.  
-Şimdiki veya gelecek zamandan bahseden cümlelerdir (_Unreal Present_)
+Daha çok konuşma anındaki hayali durumları ifade etmek için tercih edilir.  
+Şimdiki veya gelecek zamandan bahseden cümlelerdir.  
+Fiilin geçmiş zamanda olması sizi yanıltmamalıdır. (_Unreal Present_)
 
 | If Clause| Main Clause|
 |:----------|:----------|
@@ -98,15 +124,8 @@ Tamamlanıp geçmişte kalmış durumları belirttiği için geçmiş zaman form
 ## Koşul Cümlelerinde Özel Durumlar
 Yukarıdaki dört tip dışında bazı özel durumlarda söz konusu olabilir. 
 
-### Durum 1 
-Normal formlarda if kalıbı ile ‘will’, ‘would’ ve ‘should’ kullanılmaz. Ancak if clause cümlesinde bu yardımcı fiillerden herhangi biri geçiyorsa kibar bir istek, ısrarcılık veya belirsizlik söz konusu olabilir. Kısacası bu 3 durumda if clause ile bu fiilleri kullanabilirsiniz.
-
-#### Örnekler 
-
-- If you will wait a minute, I can call Mr.John. (_Bir dakika beklerseniz, Bay John’u arayabilirim._) – rica
-- If he should come here, we may go together. (_O buraya gelirse belki birlikte gidebiliriz._) – belirsizlik
   
-### Durum 2 
+### Durum 1
 Bir öğüt vermek istediğimizde ‘If I were you…’ ile başlayan cümle yapısını kullanırız. (_Ben senin yerinde olsaydım…_)
 
 #### Örnekler
@@ -114,7 +133,7 @@ Bir öğüt vermek istediğimizde ‘If I were you…’ ile başlayan cümle ya
 - If I were you, I wouldn’t go alone. (_Yerinde olsaydım, yalnız gitmezdim._)
 - If I were you, I would call her sooner. (_Eğer senin yerinde olsaydım, onu daha erken arardım._)
 
-### Durum 3
+### Durum 2
  If clause’ta ‘if’ yerine ‘when’ gelmesi gereken durumlar olabilir. ‘if’ ile ihtimâli olan bir durumu, ‘when’ ile gerçekleşeceğini bildiğimiz kesin bir durumu anlatırız.
 
 #### Örnekler 
