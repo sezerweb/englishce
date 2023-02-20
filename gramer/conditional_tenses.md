@@ -1,8 +1,3 @@
-<style>
-td, th {
-   border: 1px solid !important;
-}
-</style>
 # IF CLAUSE (KOŞUL CÜMLELERİ)
 
 İki tür cümleden oluşur.  
