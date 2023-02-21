@@ -1,32 +1,32 @@
 # IF CLAUSES
-İngilizcede koşullu cümleleri kurarken bazı kurallara uymak zorundayız. Beş farklı tipte ve iki cümlenin birleşimi ile oluşurlar. Tip 0, 1, 2, 3 ve karma tip olarak adlandırılırlar.  
+İngilizcede koşullu cümleleri kurarken bazı kurallara uymak zorundayız. Altı farklı tipte ve iki cümlenin birleşimi ile oluşurlar. Tip 0, 1, 2, 3 , karma tip 1 ve karma tip 2 olarak adlandırılırlar.  
 
-İki cümleden biri koşul (_if clause_) diğeri sonuç (_main clause_) cümlesi olarak adlandırılır. Sıralamasının önemi yoktur. Bazen koşul başta olur virgül kullanarak sonucu yazarız. Bazen de sonuç başta olur sonra koşul yazarız.  
+İki cümleden biri koşul (_if clause_) diğeri sonuç (_result clause_) cümlesi olarak adlandırılır. Sıralamasının önemi yoktur. Bazen koşul başta olur virgül kullanarak sonucu yazarız. Bazen de sonuç başta olur sonra koşul yazarız.  
 
 Tipler arasındaki fark koşula göre oluşan sonucun kesinliği ve gerçekliği ile alakalıdır. Tip numarası arttıkça sonucun gerçekleşme olasılığı zayıflar. Bu yüzden de kullanılan zaman ve modallar değişir. Tip sıfırda kesinlik söz konusu iken, tip üçe doğru, ihtimaller, keşkeler, hayaller ve pişmanlıklar ortaya çıkar.  
 
-Genel bir giriş yaptıktan sonra, önce basitce üzerinden geçip devamında ayrıntlara ve özel durumlara bakalım. Aşağıda aynı olayı farklı tiplerde ifade etmeye çalıştım. 
+Genel bir giriş yaptıktan sonra, önce basitce üzerinden geçip devamında ayrıntlara ve özel durumlara bakalım. Aşağıda aynı olayı farklı tiplerde ifade etmeye çalışalım. 
 
-1. Ders kitabına çalışırsam, sınavı geçerim. (Tip 0) -kesin
-2. Ders kitabına çalışırsam, sınavı geçebilirim. (Tip 1) -ihtimal
-3. Ders kitabına çalışsaydım, sınavı geçebilirdim. (Tip 2) -hayal
-4. Ders kitabına çalışmış olsaydım, sınavı geçmiş olurdum. (Tip 3) -pişmanlık
-5. Ders kitabına çalışmış olsaydım(tip 3),sınavı geçebilirdim(tip 2). (Mix 1) -geçmişin bugüne etkisi
-6. Ders kitabına çalışmasaydım(tip 2), sınavda kalmış olurdum(tip 3). (Mix 2) -mevcut durumun geçmişte etkisi
+0. Ders kitabına çalışırsam, sınavı geçerim. (Tip 0) - kesin
+1. Ders kitabına çalışırsam, sınavı geçebilirim. (Tip 1) - ihtimal
+2. Ders kitabına çalışsaydım, sınavı geçebilirdim. (Tip 2) - hayal
+3. Ders kitabına çalışmış olsaydım, sınavı geçmiş olurdum. (Tip 3) - pişmanlık
+4. Ders kitabına çalışmış olsaydım(tip 3), sınavı geçebilirdim(tip 2). (Mix 1) - geçmişin bugüne etkisi
+5. Ders kitabına çalışsaydım(tip 2), sınavı geçmiş olurdum(tip 3). (Mix 2) - mevcut durumun geçmişte etkisi
 
 Yukardaki cümleleri tek tek inceleyecek olursak;  
 
-**Tip 0** cümlede genel bir kanı, kesin bir inanç var. Kitabı okursam sınavı kesin geçerim diyor. Suyu ısıtırsam buharlaşır, gözümü kapatırsam göremem gibi. Bu gibi durumlarda geniş zamanlı cümleler kullanıyoruz. En kolay tip bu iki tarafada da geniş zaman kullan geç. 
+**Tip 0** cümlede genel bir kanı, kesin bir inanç var. Kitabı okursam sınavı kesin geçerim diyor. Suyu ısıtırsam buharlaşır, gözümü kapatırsam göremem gibi. Bu gibi durumlarda geniş zamanlı cümleler kullanıyoruz. En kolay tip bu, iki tarafada da geniş zaman kullanıyoruz. 
 
 **Tip 1** cümlede ise kendimize güvenimizi yitirmeye başlıyoruz. Kitabı okursam sınavı geçebilirim ama geçemeyebilirimde. Olasılık yüksek ama kesin değil. Genel olarak koşulu, geniş zaman, sonucu gelecek zaman, modal ya da emir olarak kullanırız. Yeterli para biriktirisem, araba alacağım. Eğer masayı silersen, yemeği getirebilirim. Ahmet'i görürsen selam söyle.
 
 **Tip 2** cümlede artık yapacak birşey kalmamış, sınavı geçememişiz. Konuşma anındaki hayali durumu ifade ediyoruz. Cümle yapısı geçmiş olsa da şimdiki ve gelecek zamandan bahsederiz. Kitabı okusaydım. sınav geçebilirdim ama geçemedim. Tip ikideki en yaygın kullanım, senin yerinde olsaydım şöyle yapardım ya da eğer zengin olsaydım şunu yapardım gibi kalıplardır. Şu meşhur If I `were` a rich man ya ba dibba dibba... şarkısında olduğu gibi. Tanju Okan'da arajmanını söylemişti. Ah bir zengin olsam, sana neler neler...
 
-**Tip 3** cümlede artık pişmalıklar içinde geçmişi andığımız bir durum söz konusu. Kendimizi ya da başkalarını, geçmişteki yapılanlar yüzünden eleştirebilir, pişmanlıklarımızı dile getirebiliriz. Kapıyı kitlemiş olsaydın, eve hırsız girmezdi. Daha dikkatli oynamış olsaydım maçı kazabilirdim cümlelerinde olduğu gibi.
+**Tip 3** cümlede artık pişmalıklar içinde, geçmişi andığımız bir durum söz konusu. Kendimizi ya da başkalarını, geçmişteki yapılanlar yüzünden eleştirebilir, pişmanlıklarımızı dile getirebiliriz. Kapıyı kitlemiş olsaydın, eve hırsız girmezdi. Daha dikkatli oynamış olsaydım maçı kazabilirdim cümlelerinde olduğu gibi.
 
-**Mix 1** tip 2 ile tip üçün karışımı bir durum söz konusu. Geçmişte yapılan bir olayın (çalışmamak), bugüne etkisi (sınavda kalma)
+**Mix 1** tip 3 ile tip 2 karışımı bir durum söz konusu. Geçmişte yapılan bir olayın (çalışmamak), bugüne etkisi (sınavda kalma)
 
-**Mix 2** tip 2 ile tip üçün karışımı bir durum söz konusu. Şimdiki zamandaki veya devam eden şartın(type 2), geçmişteki (type 3) sonucu. Şu an ve hep böyle olduğu için geçmişte bunu yaptım. Koşulu zıt kullanırız.
+**Mix 2** tip 2 ile tip 3 karışımı bir durum söz konusu. Şimdiki zamandaki veya devam eden şartın(type 2), geçmişteki (type 3) sonucu. Şu an ve hep böyle olduğu için geçmişte bunu yaptım. Koşulu zıt kullanırız.
 
 Konuyu genel olarak anladığımıza göre artık İngilizceye geçebiliriz. :smile:
 
@@ -45,7 +45,7 @@ Genel doğruları, kesin durumları, gerçek olayları, doğa olaylarını, bili
 - If it snows, the roads get slippery.  (_Kar yağarsa yollar kayganlaşır._)
 - Your mother gets angry if you don't eat your meal. (_Yemeğini yemezsen annen kızar._)
 - If you drink cold water, you get sick. (_Soğuk su içersen hasta olursun._)
-- If you mix red and blue, you get purple. (_Eğer kırmızı ve maviyi karıştırırsanız, mor elde edersiniz._)
+- If you mix yellow and blue, you get green. (_Eğer sarı ve maviyi karıştırırsanız, yeşil elde edersiniz._)
 
 ---
 
@@ -105,7 +105,7 @@ Tamamlanıp geçmişte kalmış durumları belirttiği için geçmiş zaman form
 - If I had been more careful, I would have won the race. (_Daha dikkatli olsaydım yarışı kazanmış olurdum._) – pişmanlık
 
 ---
-## Mixed Type
+## Mixed Types
 Karışık tipde, tip 2 ve tip 3'ü karıştırarak şartlı cümleler oluştururuz.  
 
 ### Örnekler 
@@ -133,7 +133,7 @@ Aşağıdaki cümlelerde, şimdiki zamandaki veya devam eden şartın(type 2), g
 
 ---
 
-## Koşul Cümlelerinde Özel Durumlar
+## Koşul Cümlelerinde Özel Durumlar ve Ayrıntı Bilgiler
 
  >:exclamation: If clause’ta ‘if’ yerine ‘when’ gelmesi gereken durumlar olabilir. ‘if’ ile ihtimâli olan bir durumu, ‘when’ ile gerçekleşeceğini bildiğimiz kesin bir durumu anlatırız.
 
@@ -147,11 +147,11 @@ Aşağıdaki cümlelerde, şimdiki zamandaki veya devam eden şartın(type 2), g
 
 >:exclamation: İhtimal hali oldukça uzak olan durumlarda if clause cümlede `should` kullanılır. Should'un yerine `by any chance` da kullanılabilir.
 
-- If you should see Mr Fix in Istanbul, give him my regards. (_İstanbul'da Mr. Fix i görecek olursan, selamlarımı söyle._)
+- If you should see Mr Melon in Istanbul, give him my regards. (_İstanbul'da Melon Bey'i görecek olursan, selam söyle._)
 - If the enemy by any change attack this village, the villagers will counterattack them. (_Eğer düşman bu köye saldıracak olursa, köylüler karşı saldırıda bulunacaklar._)
 
 
->:exclamation: Normal formlarda if kalıbı ile ‘will’, ‘would’ ve ‘should’ kullanılmaz. Ancak if clause cümlesinde bu yardımcı fiillerden herhangi biri geçiyorsa, kibar bir istek, ısrarcılık, belirsizlik, kabul etmek, razı olmak, istekli olmak, lütufda bulunmak, sakıncası yoksa (_wouldn't mind_) söz konusu olabilir. Kısacası böyle durumlarda if clause ile bu fiilleri kullanabilirsiniz.
+>:exclamation: Normal formlarda if kalıbı ile ‘will’, ‘would’ ve ‘should’ kullanılmaz. Ancak if clause cümlesinde bu yardımcı fiillerden herhangi biri geçiyorsa, kibar bir istek, ısrarcılık, belirsizlik, kabul etmek, razı olmak, istekli olmak, lütufta bulunmak, sakıncası yoksa (_wouldn't mind_)  durumları söz konusu olabilir. Kısacası böyle durumlarda if clause ile bu fiilleri kullanabilirsiniz.
 
 - If you will wait a minute, I can call Mr.John. (_Bir dakika beklerseniz, Bay John’u arayabilirim._) – rica
 - If he should come here, we may go together. (_O buraya gelirse belki birlikte gidebiliriz._) – belirsizlik
