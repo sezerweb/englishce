@@ -1,17 +1,38 @@
-# IF CLAUSE (KOŞUL CÜMLELERİ)
+# IF CLAUSES
+İngilizcede koşullu cümleleri kurarken bazı kurallara uymak zorundayız. Beş farklı tipte ve iki cümlenin birleşimi ile oluşurlar. Tip 0, 1, 2, 3 ve karma tip olarak adlandırılırlar.  
 
-İki tür cümlenin bir araya gelmesi ile oluşur.  
-If ile başlayan şartı belirleyen yan cümle. (_if clause_)  
-Koşul sonucu oluşacak durumu belirten ana cümle. (_main clause_)  
+İki cümleden biri koşul (_if clause_) diğeri sonuç (_main clause_) cümlesi olarak adlandırılır. Sıralamasının önemi yoktur. Bazen koşul başta olur virgül kullanarak sonucu yazarız. Bazen de sonuç başta olur sonra koşul yazarız.  
 
-Eğer yapı if clause ile başlıyorsa main clause öncesi virgül konulur.  
-Main clause ile başlıyorsa virgüle gerek yoktur.
+Tipler arasındaki fark koşula göre oluşan sonucun kesinliği ve gerçekliği ile alakalıdır. Tip numarası arttıkça sonucun gerçekleşme olasılığı zayıflar. Bu yüzden de kullanılan zaman ve modallar değişir. Tip sıfırda kesinlik söz konusu iken, tip üçe doğru, ihtimaller, keşkeler, hayaller ve pişmanlıklar ortaya çıkar.  
 
-Type 0,1,2,3 olmak üzere dört çeşidi vardır. Bunlar dışında bazı özel durumlar da mevcuttur.
+Genel bir giriş yaptıktan sonra, önce basitce üzerinden geçip devamında ayrıntlara ve özel durumlara bakalım. Aşağıda aynı olayı farklı tiplerde ifade etmeye çalıştım. 
+
+1. Ders kitabına çalışırsam, sınavı geçerim. (Tip 0) -kesin
+2. Ders kitabına çalışırsam, sınavı geçebilirim. (Tip 1) -ihtimal
+3. Ders kitabına çalışsaydım, sınavı geçebilirdim. (Tip 2) -hayal
+4. Ders kitabına çalışmış olsaydım, sınavı geçmiş olurdum. (Tip 3) -pişmanlık
+5. Ders kitabına çalışmış olsaydım(tip 3),sınavı geçebilirdim(tip 2). (Mix 1) -geçmişin bugüne etkisi
+6. Ders kitabına çalışmasaydım(tip 2), sınavda kalmış olurdum(tip 3). (Mix 2) -mevcut durumun geçmişte etkisi
+
+Yukardaki cümleleri tek tek inceleyecek olursak;  
+
+**Tip 0** cümlede genel bir kanı, kesin bir inanç var. Kitabı okursam sınavı kesin geçerim diyor. Suyu ısıtırsam buharlaşır, gözümü kapatırsam göremem gibi. Bu gibi durumlarda geniş zamanlı cümleler kullanıyoruz. En kolay tip bu iki tarafada da geniş zaman kullan geç. 
+
+**Tip 1** cümlede ise kendimize güvenimizi yitirmeye başlıyoruz. Kitabı okursam sınavı geçebilirim ama geçemeyebilirimde. Olasılık yüksek ama kesin değil. Genel olarak koşulu, geniş zaman, sonucu gelecek zaman, modal ya da emir olarak kullanırız. Yeterli para biriktirisem, araba alacağım. Eğer masayı silersen, yemeği getirebilirim. Ahmet'i görürsen selam söyle.
+
+**Tip 2** cümlede artık yapacak birşey kalmamış, sınavı geçememişiz. Konuşma anındaki hayali durumu ifade ediyoruz. Cümle yapısı geçmiş olsa da şimdiki ve gelecek zamandan bahsederiz. Kitabı okusaydım. sınav geçebilirdim ama geçemedim. Tip ikideki en yaygın kullanım, senin yerinde olsaydım şöyle yapardım ya da eğer zengin olsaydım şunu yapardım gibi kalıplardır. Şu meşhur If I `were` a rich man ya ba dibba dibba... şarkısında olduğu gibi. Tanju Okan'da arajmanını söylemişti. Ah bir zengin olsam, sana neler neler...
+
+**Tip 3** cümlede artık pişmalıklar içinde geçmişi andığımız bir durum söz konusu. Kendimizi ya da başkalarını, geçmişteki yapılanlar yüzünden eleştirebilir, pişmanlıklarımızı dile getirebiliriz. Kapıyı kitlemiş olsaydın, eve hırsız girmezdi. Daha dikkatli oynamış olsaydım maçı kazabilirdim cümlelerinde olduğu gibi.
+
+**Mix 1** tip 2 ile tip üçün karışımı bir durum söz konusu. Geçmişte yapılan bir olayın (çalışmamak), bugüne etkisi (sınavda kalma)
+
+**Mix 2** tip 2 ile tip üçün karışımı bir durum söz konusu. Şimdiki zamandaki veya devam eden şartın(type 2), geçmişteki (type 3) sonucu. Şu an ve hep böyle olduğu için geçmişte bunu yaptım. Koşulu zıt kullanırız.
+
+Konuyu genel olarak anladığımıza göre artık İngilizceye geçebiliriz. :smile:
 
 ---
 
-## 1. Type 0
+## Type 0
 Genel doğruları, kesin durumları, gerçek olayları, doğa olaylarını, bilimsel gerçekleri anlatılırken tercih edilir. (_General Truth_)   
 İki cümlede de geniş zaman kullanılır.  
 
@@ -28,7 +49,7 @@ Genel doğruları, kesin durumları, gerçek olayları, doğa olaylarını, bili
 
 ---
 
-## 2. Type 1 
+## Type 1 
 Gerçek veya gerçeğe uygun olaylarda kullanılır.   
 Kesinliği belli olmayan ancak olası durumlarda kullanılır.  
 İhtimal dahilindeki durumlar ifade edilir. (_Real Present_)   
@@ -36,31 +57,99 @@ Gelecek zamanı ifade eder.
 
 | If Clause| Main Clause|
 |:----------|:----------|
-| If + Present simple / Present Continuous / Present Perfect / Present Perfect Continuous | Future Simple / Can/May/Might/Could/Must/ Should + Present Bare Infinitive  (_Yalın eylemlik_) / Imperative (_Emir_) |
+| If + Present simple / Present Continuous|Future Simple / Modal + V1 / Imperative (_Emir_) |
 
 
 ### Örnekler 
 - If you don't get off the tree, you will fall. (_Ağaçtan inmezsen düşeceksin._) 
 - If we work hard, we can finish the project. (_Çok çalışırsak projeyi bitirebiliriz._)
+-  If he comes, take him upstairs. (_Gelirse onu üst kata çıkar._)
 - If you want to pass the test, you must study hard. (_Testi geçmek istiyorsan çok çalışmalısın._)
-- If she saves up, she can travel. (_Para biriktirirse seyahat edebilir._)
-- If I have enough eggs, I will make an omelette for you. (_Eğer yeterince yumurtam olursa, senin için bir omlet yaparım._)
-- If he comes, take him upstairs. (_Gelirse onu üst kata çıkar._)
 - If he is still sleeping, I will sack him. (_Eğer hala uyuyorsa onu kovacağım._)
-- If she has typed the letter, I'll post it. (_Eğer mektubu daktilo etmişse postalayacağım._)
-- If you have been working since 9 o'clock, you'll need a rest. (_Saat 9'dan beri çalışıyorsan dinlenmeye ihtiyacın olacak._)
+
+---
+
+## Type 2 
+Gerçekleşme olasılığı çok az ya da imkansız durumlar için kullanılır.  
+Daha çok konuşma anındaki hayali durumları ifade etmek için tercih edilir.   
+Fiilin geçmiş zamanda olması sizi yanıltmasın.  
+Şimdiki veya gelecek zamandan bahseden cümlelerdir.(_Unreal Present_)
+
+| If Clause| Main Clause|
+|:----------|:----------|
+| If + Past Simple / Past Continuous | Would / Could / Might + V1|
+
+### Örnekler 
+
+- If we bought two tickets, we would watch the film. (_İki bilet satın alsaydık filmi izlerdik._)
+- If she won a lot of money, she might go to France. (_Çok kazansa Fransa’ya giderdi._)
+- If he were listening to you, he couldn’t make a mistake. (_Seni dinliyor olsa hata yapmayabilirdi._)
+- I would sleep until noon if I didn’t go to school. (_Okula gitmeseydim öğleye kadar uyurdum._)
+
+>:exclamation: Tip ikide he/she/it ile birlikte `was` yerine `were` kullanılır. Bu sayede, hayali bir şeyden bahsedildiği anlamı pekiştirilmektedir. If I `were` a rich man ya ba dibba dibba... 
+
+---
+
+## Type 3
+Gerçekleşme mümkün olmayan olaylar, pişmanlıklar ve eleştirileri anlatmak için kullanılır.  
+Tamamlanıp geçmişte kalmış durumları belirttiği için geçmiş zaman formları tercih edilir. (_Unreal Past_)
+
+| If Clause| Main Clause|
+|:----------|:----------|
+| If + Past Perfect/ Past Perfect Continuous | Would/ Could/ Might + have + V3|
+
+### Örnekler 
+
+- If you had locked the door, the thief wouldn’t have got in. (_Kapıyı kilitlemiş olsaydın içeri hırsız girmemiş olurdu._) – eleştiri
+- If you had studied hard enough, you could have passed the exam. (_Yeteri kadar çalışmış olsaydın sınavı geçebilmiş olurdum._)  – eleştiri
+- If I had been more careful, I would have won the race. (_Daha dikkatli olsaydım yarışı kazanmış olurdum._) – pişmanlık
+
+---
+## Mixed Type
+Karışık tipde, tip 2 ve tip 3'ü karıştırarak şartlı cümleler oluştururuz.  
+
+### Örnekler 
+
+| If Clause| Main Clause|
+|:----------|:----------|
+| If + Past Perfect (type 3) |  Would / Could / Might + V1 (type 2)|
+
+Aşağıdaki cümlelerde, geçmişte olan bir olayın(type 3), şimdiki zamana(type 2) etkisi söz konusu. Geçmişte bir şey yapsan şimdi şöyle olurdu.
+
+- If you had invited him (type 3), he would be here now.(type 2) (_Eğer onu davet etseydin o şimdi burada olurdu._)
+- If you hadn't eaten those sour plums (type 3), you wouldn't be ill now.(type 2) (_O ekşi erikleri yemeseydin, şimdi hasta olmazdın._)
+- If you had crashed the car(type 3), you might be in trouble.(type 2) (_Eğer arabayı çarpmış olsaydın, başın belaya girebilirdi._)
+
+
+
+| If Clause| Main Clause|
+|:----------|:----------|
+| If + Past Simple (type 2)  | Would/ Could/ Might + have + V3 (type 3) |
+
+Aşağıdaki cümlelerde, şimdiki zamandaki veya devam eden şartın(type 2), geçmişteki (type 3) sonucu. Şu an ve hep böyle olduğu için geçmişte bunu yaptım. Koşulu zıt kullanırız. Sana güveniyoruz, güvenmeseydik şöyle olurdu. Örümcekten korkuyorum, korkmasaydım şöyle olurdu.
+
+-If we didn't trust him(type 2), we would have sacked him months ago.(type 3) (_Ona güvenmeseydik, aylar önce görevden almış olurduk._)  
+-If I wasn't afraid of spiders(type 2), I would have picked it up.(type 3) (_Örümceklerden korkmasaydım, onu almış olurdum._)
+
+---
+
+## Koşul Cümlelerinde Özel Durumlar
+
+ >:exclamation: If clause’ta ‘if’ yerine ‘when’ gelmesi gereken durumlar olabilir. ‘if’ ile ihtimâli olan bir durumu, ‘when’ ile gerçekleşeceğini bildiğimiz kesin bir durumu anlatırız.
+
+ - If Jane calls me, tell her I will be back. (_Jane beni ararsa, ona döneceğimi söyle. -Arayabilir._) – Olabilir
+- When Jane calls me, tell her I will be back. (_Jane beni aradığında, ona döneceğimi söyle. Arayacak._) – Olacağı kesin
+
+ >:exclamation: If clause’ta ‘if...not’ yerine ‘Unless’ kullanılabilir.
+
+ - If you don't get an invitation, you can't come to party. (_Davet almazsan partiye gelemezsin._)
+ - Unless you get an invitation, you can't come to party. (_Davet almadıkça partiye gelemezsiniz._)
 
 >:exclamation: İhtimal hali oldukça uzak olan durumlarda if clause cümlede `should` kullanılır. Should'un yerine `by any chance` da kullanılabilir.
 
 - If you should see Mr Fix in Istanbul, give him my regards. (_İstanbul'da Mr. Fix i görecek olursan, selamlarımı söyle._)
-- If a war should break out, I may emigrate to Spain. (_Bir savaş çıkacak olursa, İspanya'ya göç edebilirim._)
 - If the enemy by any change attack this village, the villagers will counterattack them. (_Eğer düşman bu köye saldıracak olursa, köylüler karşı saldırıda bulunacaklar._)
 
->:exclamation: `Should` başa getirildiği zaman if kullanılmaz. Ancak bu, daha resmi bir kullanım şeklidir ve daha çok iş mektuplarında ve resmi yazılarda kullanılır, günlük konuşmada kullanılmaz.
-
-- Should you see Mr Fix in Istanbul, give him my regards. (_İstanbul'da Mr. Fix i görecek olursan, selamlarımı söyle._)
-- Should a war break out, I may emigrate to Spain. (_Bir savaş çıkacak olursa, İspanya'ya göç edebilirim._)
-- Should the enemy attack this village the villagers will counter-attack them. (_Eğer düşman bu köye saldıracak olursa, köylüler karşı saldırıda bulunacaklar._)
 
 >:exclamation: Normal formlarda if kalıbı ile ‘will’, ‘would’ ve ‘should’ kullanılmaz. Ancak if clause cümlesinde bu yardımcı fiillerden herhangi biri geçiyorsa, kibar bir istek, ısrarcılık, belirsizlik, kabul etmek, razı olmak, istekli olmak, lütufda bulunmak, sakıncası yoksa (_wouldn't mind_) söz konusu olabilir. Kısacası böyle durumlarda if clause ile bu fiilleri kullanabilirsiniz.
 
@@ -70,6 +159,11 @@ Gelecek zamanı ifade eder.
 - If you will help me, I'll finish this in time. (_Eğer bana yardım ederseniz, yardım etme lütfunda bulunursanız bunu zamanında bitiririm._)
 - We shall understand the subject better if you would be kind enough to explain in a little bit more? (_Eğer biraz daha izah etme nezaketinde bulunursanız konuyu daha iyi anlayacağız._)
 - If you wouldn't mind opening the window we may have more fresh air. (_Eğer pencereyi açarsanız daha fazla temiz hava alabiliriz._)
+
+
+>:exclamation: `Should` başa getirildiği zaman if kullanılmaz. Ancak bu, daha resmi bir kullanım şeklidir ve daha çok iş mektuplarında ve resmi yazılarda kullanılır, günlük konuşmada kullanılmaz.
+
+- Should you see Mr Fix in Istanbul, give him my regards. (_İstanbul'da Mr. Fix i görecek olursan, selamlarımı söyle._)
 
 >:exclamation:If clause kısmında if clause yerine imperative ( emir cümleleri ) kullanıldığı zaman da cümlenin anlamı değişmez.
 
@@ -83,66 +177,9 @@ Gelecek zamanı ifade eder.
 
 
 ---
-
-## 3. Type 2 
-Gerçekleşme olasılığı çok az ya da imkansız durumlar için kullanılır.  
-Daha çok konuşma anındaki hayali durumları ifade etmek için tercih edilir.  
-Şimdiki veya gelecek zamandan bahseden cümlelerdir.  
-Fiilin geçmiş zamanda olması sizi yanıltmamalıdır. (_Unreal Present_)
-
-| If Clause| Main Clause|
-|:----------|:----------|
-| If + Past Simple / Past Continuous | Would / Could / Might + Present Bare Infinitive|
-
-### Örnekler 
-
-- If we bought two tickets, we would watch the film. (_İki bilet satın alsaydık filmi izlerdik._)
-- If she won a lot of money, she might go to France. (_Çok kazansa Fransa’ya giderdi._)
-- If he were listening to you, he couldn’t make a mistake. (_Seni dinliyor olsa hata yapmayabilir._)
-- I would sleep until noon if I didn’t go to school. (_Okula gitmeseydim öğleye kadar uyurdum._)
-
->:exclamation: Tip ikide he/she/it ile birlikte `was` yerine `were` kullanılır. Bu sayede, hayali bir şeyden bahsedildiği anlamı pekiştirilmektedir.
-
----
-
-## 3. Type 3
-Gerçekleşme mümkün olmayan olaylar, pişmanlıklar ve eleştirileri anlatmak için kullanılır.  
-Tamamlanıp geçmişte kalmış durumları belirttiği için geçmiş zaman formları tercih edilir. (_Unreal Past_)
-
-| If Clause| Main Clause|
-|:----------|:----------|
-| If + Past Perfect/ Past Perfect Continuous | Would/ Could/ Might + Perfect Bare Infinitive (have + V3)|
-
-### Örnekler 
-
-- If you had locked the door, the thief wouldn’t have got in. (_Kapıyı kilitlemiş olsaydın içeri hırsız girmezdi._) – eleştiri
-- If you had studied hard enough, you could have passed the exam. (_Yeteri kadar çalışmış olsaydın sınavı geçebilirdin.._)  – eleştiri
-- If I had been more careful, I would have won the race. (_Daha dikkatli olsaydım yarışı kazanabilirdim._) – pişmanlık
-
----
-
-## Koşul Cümlelerinde Özel Durumlar
-Yukarıdaki dört tip dışında bazı özel durumlarda söz konusu olabilir. 
-
-  
-### Durum 1
-Bir öğüt vermek istediğimizde ‘If I were you…’ ile başlayan cümle yapısını kullanırız. (_Ben senin yerinde olsaydım…_)
-
-#### Örnekler
-
-- If I were you, I wouldn’t go alone. (_Yerinde olsaydım, yalnız gitmezdim._)
-- If I were you, I would call her sooner. (_Eğer senin yerinde olsaydım, onu daha erken arardım._)
-
-### Durum 2
- If clause’ta ‘if’ yerine ‘when’ gelmesi gereken durumlar olabilir. ‘if’ ile ihtimâli olan bir durumu, ‘when’ ile gerçekleşeceğini bildiğimiz kesin bir durumu anlatırız.
-
-#### Örnekler 
-
-- If Jane calls me, tell her I will be back. (_Jane beni ararsa, ona döneceğimi söyle. -Arayabilir._) – Olabilir
-- When Jane calls me, tell her I will be back. (_Jane beni aradığında, ona döneceğimi söyle. Arayacak._) – Olacağı kesin
-
----
 **Kaynaklar**    
 * [Cambly](https://blog.cambly.com/tr/if-clause-kosul-cumleleri/)
 * [Wordly](https://www.getwordly.com/blog/ingilizce-if-clause-kosul-cumleleri-ingilizce-turkce-konu-anlatimi/)
 * [Dersimiz İngilizce](https://dersimizingilizce.com/if-clauses)
+* [Arnel's Everyday English](https://youtu.be/4H3-2smRJJY)
+
