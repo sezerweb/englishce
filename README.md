@@ -10,6 +10,7 @@ Gramersiz olmuyor.
 - [Countable and uncountable nouns (Sayılabilir ve Sayılamaz isimler) ](/gramer/sayilabilir_ve_sayilamaz_isimler.md)  
 - [Would vs. Could vs. Should](/gramer/would_could_should.md)
 - [Four Conditional Tenses - Type 0/1/2/3 (Koşul Cümleleri)](/gramer/conditional_tenses.md)
+- [Reported Speech (Dolaylı Anlatım)](/gramer/reported_speech.md)
 
 ## Kelime Bilgisi
 Maksat yazmak ve pekiştirmek.
@@ -26,3 +27,4 @@ Test edip onayladığım kaynak ve araçları buraya ekliyorum.
 ## Nasıl Çalışıyorum
 Günlük rutinlerim. Çalışma şekillerim vs..
 - [2021](/nasil_calisiyorum/2021.md)
+- [2023](/nasil_calisiyorum/2021.md)
