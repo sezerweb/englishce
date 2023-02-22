@@ -2,11 +2,14 @@
 
 Bir ifadeyi aktarmak istersek, ya direkt (_Direct Speech_) ya da dolaylı (_Indirect Speech_ ya da _Reported Speech_) yoldan aktarırız.  
 Direk aktarım:  
-Ahmet dediki ; "Eve geç gideceğim."  
+Ahmet said "I dropped my pen "
+Ahmet:"Kalemimi bugün düşürdüm."dedi.  
 Dolaylı aktarım:  
-Ahmet eve geç gideceğini söyledi. 
+Ahmet kalemini o gün düşürdüğünü söyledi. 
 
-İngilizcede de benzer bir kullanım vardır. Dolaylı anlatımda orjinal ifadedeki zaman, özne, zaman zarfları, iyelik zamir ve sıfatları  gibi yapılarda aktarıcıya göre değişiklik yapmak gerekebilir.
+İngilizcede de benzer bir kullanım vardır. Dolaylı anlatımda, orijinal ifadenin zamanını, öznesini, zaman zarflarını, iyelik zamirlerini ve sıfatlarını, aktarıcıya göre değiştirmek gerekebilir.
+
+
 
 
 ---
